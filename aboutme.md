@@ -1,16 +1,38 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+
+osubtitle: Why you'd want to go on a date with me
 ---
+###Introduction
+I'm XiaHong, from Zhejiang, China.Now I live in Beijing.
 
-My name is Inigo Montoya. I have the following qualities:
+###AI player
+I'm a AI player.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I want to be myself quiet and happy, where at the same time i may supposed
+evolved really different in the future not far.
 
-What else do you need?
+I hope AI could be put in open place at leats for all humans and our home 
+environment.
 
-### my history
+Survial is cruel, for both humans, animmals, robots, and all.
+In human species's prespecview, we should protect our survial first, 
+although we may evolve to new human being.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+###My scholar interests
+i hope to  build general super intelligence and beat human in all fields, 
+especiall NLP, cognitive, general problem solving, professional fileds(
+maths,...)...
+
++ deep learning (from hardware to algorithms)
++ NLP
++ general intelligence
++ computational neuroscience
++ and more:i want 
+
+###Connects
+email: xiahahaha01@gmail.com
+linedin: cn.linkedin.com/in/hxsnow10
+qq: 914630114
+github: hxsnow10
