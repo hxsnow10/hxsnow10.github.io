@@ -18,7 +18,7 @@ index:     true
 		<div id="more-list"><a href="/archives">全部文章...</a></div>
 	</div>
     <ul class="posts">{% for post in paginator.posts  %}
-	<li><span>{{ post.date | date: "%m/%d/%Y %r" }}</span> &raquo; <a href="{{ post.url }}" title="{{ post.title }}" rel="bookmark">{{ post.title }}</a></li>{% endfor %}
+	<li><span>{{ post.date | date: "%m/%d/%Y" }}</span> &raquo; <a href="{{ post.url }}" title="{{ post.title }}" rel="bookmark">{{ post.title }}</a></li>{% endfor %}
     </ul>
    
    <nav id="pagination">
