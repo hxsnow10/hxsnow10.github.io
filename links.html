@@ -1,0 +1,28 @@
+---
+layout:           default
+title:            友情链接
+links: 
+    - name: 恋爱艺术
+      url: http://loveartcn.com
+      disp: 恋爱达人的聚集地
+      weibo: http://weibo.com/lianaiyishu
+
+---
+
+  
+<article id="post-list">
+ 
+  <h3>{{ page.title }}</h3>
+	<table id="blogroll">
+	{% for link in page.links %}
+	<tr>
+	<td><a href="{{ link.url }}" title="{{ link.name }}" target="_blank">{{ link.name }}</a></td><td><span>{{ link.disp }}</span></td><td>{% if link.weibo %}<a href="{{ link.weibo}}" target="_blank">微博</a>{% endif %}</td>
+	</tr>
+	{% endfor %}
+	</table>
+
+</article>
+
+
+
+
