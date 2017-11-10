@@ -2,16 +2,15 @@ markdown:         rdiscount
 pygments:         true
 paginate:         8
 
-title:            PUA成长日记
-url:              http://impua.info
+title:            
+url:              hxsnow10.github.io
 feed:             atom.xml
 author:
-    name:         ImPUA
-    email:        ImPUA@gmail.com
-    twitter:      twitter.com/impua
-description:      "ImPUA's blog. Science of Seduction"
+    name:         hxsnow10
+    email:        xiahahaha01@gmail.com     
+description:      "xiahahaha01's blog"
 
 copyright:
-    - Design by <a href="http://impua.info" rel="author" title="ImPUA">ImPUA</a> Powered by <a href="http://github.com/mojombo/jekyll/" rel="friend" title="Jekyll" target="_blank">Jekyll</a>
+    - Design by <a href="https://github.com/pua/pua.github.com" rel="author" title="ImPUA">ImPUA</a> Powered by <a href="http://github.com/mojombo/jekyll/" rel="friend" title="Jekyll" target="_blank">Jekyll</a>
     - "&copy; Copyright 2012, All Rights Reserved."
 
